@@ -71,3 +71,6 @@ Puedes verla [aquí](/Paquete/).
 #####################################
 Repositorio local, copiado de platzi, curso de git y git hub
 Primera contribución local para github
+
+###################################
+Edición desde la rama remota
